@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Becca",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/6/64/Becaimageofficial.jpg/revision/latest?cb=20140117021709"
+  },
+  {
+    "id": 2,
+    "name": "Chloe",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/f/f0/Chloe_Mouth.jpg/revision/latest?cb=20130110144451"
+  },
+  {
+    "id": 3,
+    "name": "Aubrey",
+    "image": "http://iphoto.ipeen.com.tw/photo/comment/6/0/6/cm20121010_123460_156513_bd2752d29f3dc2bbd1491d8624ceba99943.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cynthia",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/2/2a/CynthiaRoseofficial.jpg/revision/latest?cb=20140117031649"
+  },
+  {
+    "id": 5,
+    "name": "Jess",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/c/c8/Jesseswansonofficial.jpg/revision/latest?cb=20140117030201"
+  },
+  {
+    "id": 6,
+    "name": "Fat Amy",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/3/39/Poster-09.jpg/revision/latest?cb=20121230040802"
+  },
+  {
+    "id": 7,
+    "name": "Stacie",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/7/7d/Stacieofficial.jpg/revision/latest/scale-to-width-down/310?cb=20140117030641"
+  },
+  {
+    "id": 8,
+    "name": "Lily",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/6/69/LillyOnakuramaraofficial.jpg/revision/latest?cb=20140117031400"
+  },
+  {
+    "id": 9,
+    "name": "Bumper",
+    "image": "https://vignette.wikia.nocookie.net/pitch-perfect/images/f/f7/Bumperofficial.jpg/revision/latest?cb=20140117025529"
+  },
+  {
+    "id": 10,
+    "name": "Cover 1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91bAKJ3lMVL._SY445_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cover 2",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Video5/v4/9c/ba/49/9cba499b-b2a6-f732-a47e-6116822640bb/mza_5590644712684390580.jpg/268x0w.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cover 3",
+    "image": "https://m.media-amazon.com/images/S/aplus-media/vc/d9c90b6f-60a5-45e4-adce-6ded64169970.png"
+  }
+]
